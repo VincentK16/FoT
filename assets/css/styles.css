@@ -10,11 +10,10 @@
 /* ======= Base ======= */
 body {
   font-family: 'Open Sans', arial, sans-serif;
-  color: #494d55;
+  color: #E6E6FA;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #E6E6FA;
 }
 
 html, body {

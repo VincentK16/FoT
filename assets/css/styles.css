@@ -10,7 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Open Sans', arial, sans-serif;
-  background-image: url('background.png');
+  background-image: url(background.png);
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

@@ -8,6 +8,9 @@
  * Website: http://themes.3rdwavemedia.com/
 */
 /* ======= Base ======= */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 body {
   font-family: 'Open Sans', arial, sans-serif;
   font-size: 14px;
